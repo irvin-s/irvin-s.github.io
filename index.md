@@ -1,7 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 &nbsp;
-&nbsp;
 
 ![Foto pessoal](photo.png)
 
