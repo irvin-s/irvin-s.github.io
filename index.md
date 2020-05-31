@@ -18,6 +18,28 @@ I am interested in repairs of configuration files, **Docker**, in particular. Th
 * Msc. in Information Sciences at Federal University of Paraíba (João Pessoa, PB) 2015-2017
 * Graduation in Systems for Internet at FATEC-JP (João Pessoa, PB) 2009-2011
 
+### Skills
+## Programming Languages
+* PHP: Expert
+* Java: Intermediate
+* Python: Intermediate
+* Bash: Intermediate
+* C: Intermediate
+* GO: Basic
+
+## OS & TOOLS
+* Linux: Expert
+* Windows: Expert
+* TCP/IP: Expert
+* OSX: Intermediate
+* VSCode: Intermediate
+* Docker: Intermediate
+
+## DATABASE
+* MySQL: Intermediate
+* MSSQl: Intermediate
+* Oracle: Basic
+
 ### Contact
 - Skype ID: irvin.b
 - [Github](https://github.com/irvin-s/)
