@@ -37,7 +37,7 @@ I am interested in repairs of configuration files, **Docker**, in particular. Th
 
 #### DATABASE
 * MySQL: Intermediate
-* MSSQl: Intermediate
+* SQL Server: Intermediate
 * Oracle: Basic
 
 ### Contact
