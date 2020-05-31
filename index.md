@@ -19,7 +19,7 @@ I am interested in repairs of configuration files, **Docker**, in particular. Th
 * Graduation in Systems for Internet at FATEC-JP (João Pessoa, PB) 2009-2011
 
 ### Skills
-## Programming Languages
+#### Programming Languages
 * PHP: Expert
 * Java: Intermediate
 * Python: Intermediate
@@ -27,7 +27,7 @@ I am interested in repairs of configuration files, **Docker**, in particular. Th
 * C: Intermediate
 * GO: Basic
 
-## OS & TOOLS
+#### OS & TOOLS
 * Linux: Expert
 * Windows: Expert
 * TCP/IP: Expert
@@ -35,7 +35,7 @@ I am interested in repairs of configuration files, **Docker**, in particular. Th
 * VSCode: Intermediate
 * Docker: Intermediate
 
-## DATABASE
+#### DATABASE
 * MySQL: Intermediate
 * MSSQl: Intermediate
 * Oracle: Basic
