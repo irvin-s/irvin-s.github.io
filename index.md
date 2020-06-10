@@ -4,7 +4,7 @@
 
 ![Foto pessoal](photo.png)
 
-Hi!!! I'm currently studying for a phd's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil).
+Hi! I'm currently studying for a phd's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil).
 
 ### Project
 
