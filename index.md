@@ -7,7 +7,7 @@
 Hi! I'm currently studying for a phd's degree in Computer Science at Federal University of Pernambuco (Recife, PE - Brazil).
 
 ### Project
-Currently working on a Data Science project advised by Prof. Dr. Valéria Times and co-advised by Prof. Dr. Bruno Neiva. The project aims to use a model to make predictions based on a dataset of criminal occurrences and propose a new intuitive data visualization.
+Currently working on a Blockchain project advised by Prof. Dr. Valéria Times and co-advised by Prof. Dr. Bruno Neiva. The project aims to propose an architecture to de-authorize access to user's data on social networks..
 
 ### Education
 * Ph.D. Student in Computer Science at Federal University of Pernambuco (Recife, PE) 2020-Current
